@@ -1,0 +1,6 @@
+node_modules
+api_test
+db.sqlite
+dist
+.cache
+.env
