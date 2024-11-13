@@ -1,0 +1,13 @@
+{
+    "presets": [
+      ["@babel/preset-env", {"modules": false}]
+    ],
+    "plugins": [
+      ["@babel/plugin-proposal-decorators", { "version": "legacy" }]
+      // ["babel-plugin-transform-import-meta"],
+      // ["babel-plugin-add-module-exports"]
+      // ["babel-plugin-module-resolver", {
+      //   "extensions": [".js", ".json"]
+      // }]
+    ]
+}
